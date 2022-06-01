@@ -5218,5 +5218,19 @@
    "telegram": "VegasAda",
    "operatorName": "",
    "github": ""
+ },
+ {
+   "ticker": "ANEW",
+   "poolId": "",
+   "social": {
+     "twitter": "ANEW_pool",
+     "website": "https://anewpool.io",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "",
+   "operatorName": "",
+   "github": ""
  }
 ]
